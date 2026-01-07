@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Chaudhary</h1>
 <h3 align="center">A passionate to learn and explore coding world</h3>
 <p align = "right"><image src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sung-jin-x&label=Profile%20views&color=0e75b6&style=flat" alt="sung-jin-x" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sung-jin-x&label=Profile%20views&color=0e75b6&style=flat" alt="sung-jin-x" /> </p>
 
 - 🌱 I’m currently learning **c language**
 
