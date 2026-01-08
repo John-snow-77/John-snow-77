@@ -1,62 +1,20 @@
-# Hi there, I'm ankit chaudhary! 👋
+<h1 align="center">Hi 👋, I'm Ankit Chaudhary</h1>
+<h3 align="center">A passionate to learn and explore coding world</h3>
+<p align = "right"><image src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sung-jin-x&label=Profile%20views&color=0e75b6&style=flat" alt="sung-jin-x" /> </p>
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" alt="GitHub Logo">
+- 🌱 I’m currently learning **c language**
+
+- 📫 How to reach me **ac484709@gmail.com**
+
+- ⚡ Fun fact **just a coder**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_ankit_chaudhary07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ankit_chaudhary07" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20&%20Engineering-brightgreen" alt="Degree Badge">
-  
-  <img src="https://img.shields.io/github/followers/John-snow-77?label=Followers" alt="GitHub Followers">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=John-snow-77&show_icons=true&theme=radical" alt="ankit's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=John-snow-77&theme=radical" alt="ankit's GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-snow-77&layout=compact&theme=radical" alt="ankit's Top Languages">
-</p>
-
----
-
-### 🏆 Competitive Programming Profiles
-
-<p align="center">
-  </a>
-<p align="center">
-  <!-- Codechef Badge -->
-  <a href="https://www.codechef.com/users/ankit6709">
-    <img src="https://img.shields.io/badge/CodeChef-0F9D58?style=flat&logo=codechef&logoColor=white" alt="GeeksforGeeks Badge">
-  </a>
-
----
-### 💻 Technical Skills and Interests
-
-- **Programming Languages:** ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ### 💼 Recent Experience
-
-**R&D Intern at APT Coder**  
-*May 2024 - July 2024*  
-*Noida, India*  
-[LinkedIn](https://www.linkedin.com/in/ankit-chaudhary-1883073a4/)
-
----
-
-### 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:ac484709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ankit-chaudhary-1883073a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/John-snow-77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF6ZGlzYTdodW4yODFoZXF0NWc4c2Zwa3Q2cnY4cXI0Zjk2eDFzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qasTpsSGzZBAWpqUIS/giphy.webp" alt="Coding GIF">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sung-jin-x&show_icons=true&locale=en&layout=compa
